@@ -1,2 +1,3 @@
 # Titanic-EDA-Project
 Exploratory Data Analysis on Titanic dataset using Python.
+I performed Exploratory Data Analysis (EDA) on the Titanic dataset using Python libraries such as Pandas, NumPy, Seaborn, and Matplotlib. The work involved data cleaning, checking missing values, converting data types, and analyzing key features such as age, fare, passenger class, and survival status. I created visualizations including histograms and count plots to identify patterns and relationships in the data. This analysis helped understand the factors affecting passenger survival and improved my skills in data preprocessing, visualization, and statistical analysis.
